@@ -1,1 +1,2 @@
 Arquivo de teste do GIT.
+Arquivo alterado durante Demonstração de Git Essencial.
